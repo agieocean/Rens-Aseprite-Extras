@@ -1,0 +1,1 @@
+You need to put these in your scripts folder and then reload aseprite to see them, to get at your scripts folder go to File > Scripts > Open Scripts Folder
