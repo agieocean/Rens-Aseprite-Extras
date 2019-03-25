@@ -1,3 +1,4 @@
+-- Radial code adapted from here: https://stackoverflow.com/questions/30608035/plot-circular-gradients-using-pil-in-python
 function drawRadialGradient(centerx, centery, innerColor, outerColor)
     for y=0,app.activeImage.height do
         for x=0,app.activeImage.width do
